@@ -3,6 +3,7 @@ This is the data for my personal presence in
 ===========================================
 * See http://UnitedNationsOfLove.com
 * See: https://tinypress.co/
+* Also see: tinyletter.com
 
 License
 =======
